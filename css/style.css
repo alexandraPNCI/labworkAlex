@@ -1,0 +1,48 @@
+/*
+body{
+	background-color: #d9d9d9;
+test to see if style sheet linked 
+} */
+
+
+body{
+	background-color: #e6e6e6;
+    font-family: 'Oswald', sans-serif;
+}
+
+h1{
+	color: #000000;
+
+}
+
+h3{
+	color: #005ce6;
+
+}
+
+
+td, th{
+	border: 2px solid black;
+	text-align:	centre;
+
+	
+}
+
+table{
+	font-family: 'Roboto', sans-serif;
+}
+
+
+/* changes the list style to square */
+ul {
+	list-style: square inside url("sqpurple.gif");
+  
+}
+
+/* dont use image sizing in HTML remember to call class and style in CSS sheet */
+
+.myImages{
+	width: 150px;
+	height: 200px;
+}
+
